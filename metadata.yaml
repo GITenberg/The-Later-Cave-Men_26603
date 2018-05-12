@@ -1,0 +1,31 @@
+_repo: The-Later-Cave-Men_26603
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Howard V.
+    gutenberg_agent_id: '28404'
+    url: http://www.gutenberg.org/2009/agents/28404
+covers:
+- cover_type: archival
+  image_path: 26603-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Dopp, Katharine Elizabeth
+    birthdate: 1863
+    gutenberg_agent_id: '28405'
+    url: http://www.gutenberg.org/2009/agents/28405
+description: ''
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cave dwellers -- Juvenile literature'
+- !lcsh 'Archaeology -- Juvenile literature'
+- !lcc 'GN'
+title: The Later Cave-Men
+url: http://www.gutenberg.org/ebooks/26603
